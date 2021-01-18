@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "StudenApp"
+  "defaultProject": "StudenApp",
+  "cli": {
+    "analytics": "0bf78701-6cdf-4df1-9412-5a8f89babdb4"
+  }
 }
